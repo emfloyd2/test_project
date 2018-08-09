@@ -1,2 +1,1 @@
-DISTANCE = 1
-
+from project.constants import DISTANCE
